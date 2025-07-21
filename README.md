@@ -1,9 +1,9 @@
 # dark-x-mobile
 Dark‑X AI Mobile App
 
-lib/
+lib
 
-assets/
+assets
 
 pubspec.yaml
 
