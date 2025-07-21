@@ -1,9 +1,6 @@
 # dark-x-mobile
 Dark‑X AI Mobile App
-lib/ folder
-
-assets/ folder
-
+lib/
+assets/
 pubspec.yaml
-
 README.md
